@@ -1,0 +1,160 @@
+
+.row1{
+    background-color: white;
+}
+.logo{
+    width:45px;
+    height:45px;
+}
+.logoname{
+    font-family:var(logoname);
+}
+.start{
+    background-color: rgb(125, 157, 252);
+    border:1px solid rgb(125, 157, 252);
+    border-radius: 15px;
+}
+.welcome{
+    color:rgb(125, 157, 252);
+}
+.textcolor{
+    color:rgb(67, 67, 67);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.navitems{
+    color:black;
+    font-size:large;
+}
+.clienticon{
+    width:100px;
+    height:80px;
+    margin:45px;
+}
+.line1{
+    width:100px;
+    border:2px solid green;
+    /* height:800px;
+    color:rgb(125, 157, 252); */
+}
+.img1{
+    width:200px;
+    height:200px;
+}
+.imgbox{
+    display: block;
+    width:50%;
+    margin:auto;
+}
+.icon1{
+    background-color: rgb(196, 196, 235);
+}
+.sec1{
+    padding:0px;
+}
+.sec1-last{
+    width:100%;
+    margin-left:0px !important;
+    margin-right:0px !important;
+}
+.comp1{
+    width:280px;
+    height: 420px;
+    border-radius: 8px;
+}
+.comp2{
+    width:250px;
+    height: 200px;
+    border-radius: 8px;
+}
+.lists{
+    font-size: 18px;
+    line-height: 30px;
+}
+.tickicon{
+    color:slategrey;
+}
+.arrowright{
+    color:white;
+}
+.readmore{
+    background-color: rgb(80, 80, 173);
+}
+.featureimg1{
+    height:500px;
+    width:500px;
+    border-radius: 10px;
+}
+.featureicon{
+    height:100px;
+    width:70px;
+}
+.featureimg2{
+    height:350px;
+    width:450px;
+    border-radius: 10px;
+}
+.featureimg3{
+    height:350px;
+    width:480px;
+    border-radius: 10px;
+}
+.featuresbg{
+    background-color: rgb(247, 248, 252);
+    border-radius: 10px;
+}
+.sec4-div1{
+    background-color: rgb(247, 248, 252);
+}
+.service1{
+    width:100px;
+    height:90px;
+    background-color:rgb(187, 215, 244);
+    border:1px solid rgb(94, 94, 239);
+    border-radius: 8px;
+}
+.serviceimg1{
+    width: 500px;
+    height: 480px;
+}
+.testinomialpics{
+    width:100px;
+    height:100px;
+}
+.feature-div1{
+    margin-top:0px;
+}
+@media only screen  and (max-width:992px){
+    .ss{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .sk{
+        width:80%;
+       margin: auto;
+    }
+    .featureimg1{
+       
+        width:370px;
+        height:350px;
+    }
+    .featureimg2{
+       
+        width:370px;
+        height:350px;
+    }
+    .featureimg3{
+       
+        width:370px;
+        height:350px;
+    }
+    .featurebg1{
+       justify-content: center;
+       width:370px;
+       height:350px;
+    }
+   
+ }
+   
